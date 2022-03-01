@@ -13,6 +13,8 @@ This system started as a "daily status report" I used to do for work. I eventual
 - Every week, that week's Daily Summaries are condensed into a Weekly Summary.
 - Every month, the last several Weekly Summaries are added to the current Yearly Summary.
 
+A more thorough overview is available in this blog post: [How I keep a work journal](https://www.edeen.dev/blog/how-i-keep-a-work-journal/).
+
 ## Acknowledgements
 
 The majority of this system was developed accretively over the last decade, as the minimal tool I needed at any given time.
